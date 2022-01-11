@@ -1838,8 +1838,10 @@ body{
     .container__tops{
         height: 290px;
         margin-bottom: 0;
+      
    
     }
+
     .container__shop{
         width: 850px;
         position: relative;
@@ -1946,13 +1948,20 @@ body{
         overflow: hidden;
         font-size: 10px;
     }
-    .footer__topss{
-        height: 20px;
-    }
     .header__hotline{
        width: 100%;
     }
     .header{
-        width: 100%;
+       width: 100%;
+    }
+    .container__top{
+        position: relative;
+        margin: auto;
+    }
+    .container__tops{
+        width: 500px;
+    }
+    .container__shop{
+        width: 500px;
     }
 } 
